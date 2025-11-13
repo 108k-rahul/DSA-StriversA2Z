@@ -23,4 +23,4 @@ int main(){
 
     cout<<isPrime(n)<<endl;
     return 0;
-}
+} 
